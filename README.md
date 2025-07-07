@@ -1,4 +1,7 @@
 # Various Works
+## Beebus Discord Bot
+A Discord.py bot that I wrote in January 2023, which uses a REST API of sorts (hosted on an Amazon AWS server) to keep a log of how many players are in a Roblox server, as well as reporting other various statistics. This log was translated into a Discord embedded message, and was edited by a bot based on the server's real-time data. Once the server was closed, a .txt log of the server's events would replace the embedded message.
+
 ## Duplicate MKV Deleter
 Simple script written in Python which deletes all existing .mkv (Matroška) video files from a folder if a .mp4 video file of the same name exists. I used this to purge the video files that I had already remuxed into .mp4 using OBS, but just didn't delete at the time. Very effective at creating system storage space if you have a lazy habit of remuxing and not deleting .mkv files.
 ## Roblox Scripts
